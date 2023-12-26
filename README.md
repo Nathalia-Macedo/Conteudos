@@ -10,7 +10,7 @@ Após 8 meses de monitoria, recebi uma proposta para ser estagiária front end n
 
 Depois de 3 meses trabalhando na TOTVS, recebi a proposta de voltar para a Infinity, dessa vez como professora.
 
-Atualmente, trabalho como professora Front End na Infinity School, Estagiária Front - End na TOTVS, e professora particular de programação
+Atualmente, trabalho como professora Front End na Infinity School, Estagiária Front - End na TOTVS, e professora particular de programação. Também faço faculdade de Análise e Desenvolvimento de Sistemas na Estácio.
 
 Sempre quis duas coisas: Ser a versão feminina do Tony Stark, e ensinar.
 
