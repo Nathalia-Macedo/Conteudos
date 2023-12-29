@@ -4,7 +4,7 @@ Meu nome é Nathalia, tenho 21 anos. Em setembro de 2022, comecei meu curso de P
 Após 3 meses de curso, me tornei monitora. Precisava acompanhar e auxiliar diversos professores em 8 turmas diferentes,
 era responsável por corrigir as provas, e ministrar aulas particulares e de reposição.
 
-Com 3 meses de monitoria, me tornei professora particular de programação.
+Com 3 meses de monitoria, me me tornei professora particular de programação.
 
 Após 8 meses de monitoria, recebi uma proposta para ser estagiária front end na TOTVS.
 
